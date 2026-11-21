@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.skp
+*.skb
+*.dwg
+*.dxf
+*.ctb
+_backup/
